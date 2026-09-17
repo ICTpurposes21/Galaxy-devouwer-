@@ -1,0 +1,54 @@
+body {
+    background-image: url("24968a4a26213ff7b38bb3dd2926d1bb.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.login-container {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  text-align: center;
+}
+
+.btn {
+  padding: 8px 20px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+
+.welcome-title-black {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  color: #000000;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  text-shadow: 
+    0 0 2px #ffffff,
+    0 0 5px #ffffff,
+    0 0 10px #ffffff,
+    0 0 20px #aaaaaa,
+    0 0 30px #aaaaaa;
+  -webkit-text-stroke: 1px white;
+}
+
+.welcome-subtitle-black {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 14px;
+  color: #000000;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-shadow: 0 0 5px white;
+  -webkit-text-stroke: 0.3px white;
+}

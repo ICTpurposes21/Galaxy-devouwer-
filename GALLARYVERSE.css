@@ -1,0 +1,29 @@
+    /* WELCOME TO GALLARY VERSE EFFECT - for your Click here */
+    .welcome-effect {
+      font-family: "Impact", "Arial Black", sans-serif;
+      font-weight: 900;
+      font-size: 18px;
+      color: black;
+      -webkit-text-stroke: 1.5px white; /* white outline */
+      text-stroke: 1.5px white;
+      text-shadow: 
+        0 0 10px white,
+        0 0 20px rgba(255,255,255,0.8);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      line-height: 1.1;
+      text-align: center;
+    }
+
+    /* ACCOUNT CREATED SUCCESSFULLY EFFECT - for your "Let me know..." */
+    .account-effect {
+      font-family: "Courier New", monospace;
+      font-size: 16px;
+      color: transparent; /* makes inside empty, only outline */
+      -webkit-text-stroke: 0.8px #cccccc;
+      text-stroke: 0.8px #cccccc;
+      letter-spacing: 1.5px;
+      text-shadow: 
+        0 0 5px rgba(255,255,255,0.6);
+      text-align: center;
+    }

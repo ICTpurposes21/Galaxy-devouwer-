@@ -1,0 +1,73 @@
+body {
+    background-image: url("8f55cac70c8a4e31adfef57b9c5229e9.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+
+.login-container {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  text-align: center;
+}
+
+
+.create-title {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 
+    0 0 5px #a020f0,
+    0 0 10px #a020f0,
+    0 0 20px #ff00ff,
+    0 0 40px #ff00ff;
+  margin-bottom: 30px;
+  line-height: 1.2;
+}
+
+label {
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text-box {
+  width: 250px;
+  padding: 8px;
+  border-radius: 4px;
+  border: none;
+}
+
+.btn {
+  padding: 6px 18px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
